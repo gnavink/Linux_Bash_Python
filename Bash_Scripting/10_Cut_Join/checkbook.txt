@@ -1,0 +1,7 @@
+# Year : Month : Day : Recipient : D / W : Amount
+2015:11:9:Pravin Kumar:W:5.00
+2015:11:12:Standard Chartered:W:5.50
+2015:12:10:Pravin Kumar:W:10.00
+2015:12:15:Reliance:W:10.00
+2016:1:2:ICICI:W:35.00
+2016:1:31:Standard Chartered:D:100.00

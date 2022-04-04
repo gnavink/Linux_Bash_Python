@@ -1,0 +1,4 @@
+cc     hello.c   -o hello
+make: cc: Command not found
+<builtin>: recipe for target 'hello' failed
+make: *** [hello] Error 127
