@@ -1,0 +1,2 @@
+cc     hello.c   -o hello
+<builtin>: recipe for target 'hello' failed
