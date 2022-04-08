@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x  3 navin navin 4096 Oct 28 21:05 .
+drwxrwxr-x 11 navin navin 4096 Oct 28 19:05 ..
+-rw-rw-r--  1 navin navin  568 Oct 28 21:04 1_subprocess.py
+-rw-rw-r--  1 navin navin    0 Oct 28 21:05 output.txt
+drwxrwxr-x  2 navin navin 4096 Oct 28 20:45 __pycache__
