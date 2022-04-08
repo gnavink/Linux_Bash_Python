@@ -1,0 +1,10 @@
+Digiterati Folder link to share code:
+-------------------------------------
+https://1drv.ms/u/s!AvoTCHXafipZhUbTjpVpxjNykYUw?e=12345678
+
+
+Python Installation:
+---------------------
+https://linuxize.com/post/how-to-install-python-3-9-on-ubuntu-20-04/
+https://levelup.gitconnected.com/a-guide-to-upgrade-your-python-to-3-9-44ccb3eae31a
+
