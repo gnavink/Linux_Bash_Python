@@ -1,3 +1,0 @@
-Hello from Line1
-Hello from Line2
-Hello from Line3
